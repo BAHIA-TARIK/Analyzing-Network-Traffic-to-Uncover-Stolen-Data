@@ -1,3 +1,6 @@
+DESCRIPTION: Identifying Stolen Data through Network Traffic Examination 
+Bahia Tarik
+
                           STEP 1 
 
 In this challenge, we are provided with a pcap file :packet .pcapng  
@@ -50,6 +53,5 @@ After extracting the zip, we find another password-protected PDF. Let's crack it
 The password is : meow 
 
 FLAG : 
-
 AKASEC{PC4P_DNS_3xf1ltr4t10n_D0n3!!} 
 ![9](https://github.com/user-attachments/assets/b7984197-9105-43ae-bae5-9e227d6a1b20)
