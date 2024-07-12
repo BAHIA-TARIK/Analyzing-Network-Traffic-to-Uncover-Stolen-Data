@@ -24,9 +24,9 @@ Decoding the data from hex, we find a 7z extension :
 
 We find that the 7z file is secured with a password. 
 ![Capture d’écran 2024-07-10 184347](https://github.com/user-attachments/assets/dbd4b0ae-cbab-4b30-8719-324f1b160e24)
+Let's crack it !!!
 
-Let's crack it !!! 
-                        STEP 2 
+                              STEP 2 
 
  First we should have the archive download.7z, we wish to crack on our filesystem. 
 ![11](https://github.com/user-attachments/assets/d8e8a103-2133-4455-9cee-dacd3769fc72)
